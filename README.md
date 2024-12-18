@@ -1,1 +1,1 @@
-//Cartão de Natal.//
+//Cartão de Natal//
